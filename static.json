@@ -1,7 +1,8 @@
 {
  "headers": {
    "/*": {
-     "X-Author": "dvkulikoff"
+     "X-Author": "dvkulikoff",
+     "Access-Control-Allow-Origin": "*"
    }
  }
 }
